@@ -1,2 +1,3 @@
 # odin-recipes
-a simple recipe website
+This is my first project in TOP, a simple recipe website!
+With it, I will practice what I had learned in regards to HTML and CSS code. 
