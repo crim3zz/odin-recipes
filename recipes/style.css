@@ -1,0 +1,94 @@
+body {
+    background-color: #6d835c;
+    margin: auto;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-family: "Lucida Bright", Georgia, serif;
+    margin-bottom: 30px;
+    color: #3a3726;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 45px;
+}
+
+h3 {
+    font-size: 35px;
+    color: #815c4c;
+}
+
+li, p {
+    font-size: 27px;
+}
+
+ul {
+   list-style: square;
+   text-align: left;
+}
+
+ol {
+    text-align: left;
+}
+
+.steps li {
+    margin-bottom: 20px;
+}
+
+.recipe-image img{
+    width: 450px;
+    border: 8px solid #815c4c;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.main {
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    border: 10px solid #3a3726;
+    width: 1020px;
+    padding: 25px 60px;
+    margin-top: 10px;
+    background-color: #edd6c6;
+}
+
+.divider-box {
+    text-align: center;
+    margin: 40px 20px;
+}
+
+.apple-divider {
+    width: 800px;
+}
+
+.ingridients-divider {
+    width: 620px;
+}
+
+.cookie-divider {
+    width: 850px;
+}
+
+.home a {
+    background-color: #3a3726;
+    color: #fffdee;
+    border-radius: 15px;
+    text-decoration: none;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 1em 2em;
+    height: 80px;
+    width: 180px;
+}
+
+.home a:hover {
+    background-color: #edd6c6;
+    color: #3a3726;
+}
