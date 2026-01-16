@@ -7,14 +7,14 @@ body {
 
 ul {
    list-style: none;
-   font-size: 25px;
+   font-size: 24px;
    font-weight: bold;
    padding-inline-start: 0%;
    margin-bottom: 50px;
 }
 
 li {
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     
 }
 
@@ -27,7 +27,7 @@ li {
     box-sizing: border-box;
     padding: 1em 2em;
     height: 80px;
-    width: 360px;
+    width: 420px;
 }
 
 
